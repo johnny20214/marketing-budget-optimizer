@@ -1,5 +1,5 @@
 # Marketing Budget Optimization Simulator
-An interactive web application built to help businesses make data-driven decisions on marketing budget allocation. This tool moves beyond simple analysis to provide prescriptive, optimized recommendations that maximize sales ROI, directly mirroring the type of analytical solutions developed at firms like ZS Associates.
+An interactive web application built to help businesses make data-driven decisions on marketing budget allocation. This tool moves beyond simple analysis to provide prescriptive, optimized recommendations that maximize sales ROI.
 ---
 **You can access the live, interactive application here:**
 **https://marketing-budget-optimizer-eepbgfebazejr7bqxyqenr.streamlit.app**
