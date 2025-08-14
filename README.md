@@ -32,7 +32,7 @@ The application is built on a robust linear regression model with an **R-squared
 To run this application on your local machine, follow these steps:
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/marketing-budget-optimizer.git
+    git clone https://github.com/johnny20214/marketing-budget-optimizer.git
     cd marketing-budget-optimizer
     ```
 2.  **Create and activate a virtual environment:**
