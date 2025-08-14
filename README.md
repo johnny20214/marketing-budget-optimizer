@@ -1,21 +1,10 @@
 # Marketing Budget Optimization Simulator
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://marketing-budget-optimizer-zs-project.streamlit.app/](https://marketing-budget-optimizer-eepbgfebazejr7bqxyqenr.streamlit.app/))
-
 An interactive web application built to help businesses make data-driven decisions on marketing budget allocation. This tool moves beyond simple analysis to provide prescriptive, optimized recommendations that maximize sales ROI, directly mirroring the type of analytical solutions developed at firms like ZS Associates.
-
 ---
-
-## 🚀 Live Demo
-
 **You can access the live, interactive application here:**
-
 **[[https://marketing-budget-optimizer-zs-project.streamlit.app/](https://marketing-budget-optimizer-zs-project.streamlit.app/](https://marketing-budget-optimizer-eepbgfebazejr7bqxyqenr.streamlit.app/))**
-
 ---
-
 ---
-
 ## Project Overview
 In a competitive market, allocating a marketing budget effectively is a critical challenge. This project addresses this problem by providing a tool that allows a user to:
 1.  **Understand** the impact of spending in different channels (TV, Radio, Newspaper).
@@ -24,24 +13,22 @@ In a competitive market, allocating a marketing budget effectively is a critical
 The application is built on a robust linear regression model with an **R-squared of 0.903**, ensuring that its recommendations are based on statistically significant relationships within the data.
 ---
 ## Key Features
-
 *   **Predictive Modeling:** Uses a Scikit-learn regression model to forecast sales based on advertising spend.
 *   **Smart Optimization:** Leverages SciPy's optimization engine to find the ideal budget allocation that maximizes predicted sales.
 *   **Interactive Scenario Planning:** Users can manually adjust spend in each channel with sliders to see the immediate impact on sales forecasts.
 *   **Business Constraint Integration:** The tool was enhanced to allow users to set minimum spending thresholds for each channel, turning a purely mathematical solution into a realistic, strategy-aware recommendation engine.
+  
 ---
 ## Tech Stack
-
 *   **Language:** Python
 *   **Core Libraries:** Pandas, NumPy, Scikit-learn, SciPy
 *   **Web Framework & UI:** Streamlit
 *   **Visualization:** Matplotlib, Seaborn
 *   **Deployment:** Streamlit Community Cloud (via GitHub)
 ---
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 To run this application on your local machine, follow these steps:
-
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/your-username/marketing-budget-optimizer.git
