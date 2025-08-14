@@ -2,7 +2,7 @@
 An interactive web application built to help businesses make data-driven decisions on marketing budget allocation. This tool moves beyond simple analysis to provide prescriptive, optimized recommendations that maximize sales ROI, directly mirroring the type of analytical solutions developed at firms like ZS Associates.
 ---
 **You can access the live, interactive application here:**
-**[[https://marketing-budget-optimizer-zs-project.streamlit.app/](https://marketing-budget-optimizer-zs-project.streamlit.app/](https://marketing-budget-optimizer-eepbgfebazejr7bqxyqenr.streamlit.app/))**
+**https://marketing-budget-optimizer-eepbgfebazejr7bqxyqenr.streamlit.app**
 ---
 ---
 ## Project Overview
