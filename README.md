@@ -5,6 +5,7 @@ An interactive web application built to help businesses make data-driven decisio
 **https://marketing-budget-optimizer-eepbgfebazejr7bqxyqenr.streamlit.app**
 ---
 ---
+![screenshot](images/images.png)
 ## Project Overview
 In a competitive market, allocating a marketing budget effectively is a critical challenge. This project addresses this problem by providing a tool that allows a user to:
 1.  **Understand** the impact of spending in different channels (TV, Radio, Newspaper).
